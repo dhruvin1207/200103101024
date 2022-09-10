@@ -1,0 +1,49 @@
+@media screen and (max-width: 978px)
+{
+	.main-header .today{width:100%;}
+	.main-header .home{width:50%;}
+	.main-header .about{width:50%;}
+	.main-header .signin{width:50%;}
+	.main-header .signup{width:50%;}
+	.main-header .call{width:50%;}
+	.main-header .mail{width:50%;}
+
+	.sub-header .search{width: 100%;}
+	.sub-header .prahya{width: 50%;background: #2fdab8;}
+	.sub-header .shareon{width: 50%;background: #2fdab8;}
+
+	.main-menu .b1{width: 50%;}
+	.main-menu .b2{width: 50%;}
+	.main-menu .b3{width: 50%;}
+	.main-menu .b4{width: 50%;}
+	.main-menu .b5{width: 50%;}
+	.main-menu .b6{width: 50%;}
+	.main-menu .b7{width: 50%;}
+	.main-menu .b8{width: 50%;}
+
+}
+@media screen and (max-width: 578px)
+{
+	.main-header .today{width:100%;}
+	.main-header .home{width:100%;}
+	.main-header .about{width:100%;}
+	.main-header .signin{width:100%;}
+	.main-header .signup{width:100%;}
+	.main-header .call{width:100%;}
+	.main-header .mail{width:100%;}
+
+    .sub-header .search{width: 100%;}
+	.sub-header .prahya{width: 100%;background: black;color: white;}
+	.sub-header .shareon{width: 100%; background: white;}
+
+	.main-menu .b1{width: 100%;}
+	.main-menu .b2{width: 100%;}
+	.main-menu .b3{width: 100%;}
+	.main-menu .b4{width: 100%;}
+	.main-menu .b5{width: 100%;}
+	.main-menu .b6{width: 100%;}
+	.main-menu .b7{width: 100%;}
+	.main-menu .b8{width: 100%;}
+
+
+}
